@@ -1,0 +1,14 @@
+{
+    "name": "howlerjs-audio-issues",
+    "license": "UNLICENSED",
+    "version": "0.0.0",
+    "packageManager": "yarn@3.5.0",
+    "devDependencies": {
+        "@yarnpkg/sdks": "^3.0.0-rc.40",
+        "prettier": "2.8.6",
+        "typescript": "^5.0.2"
+    },
+    "workspaces": [
+        "webaudio-api-cutoff-issue"
+    ]
+}

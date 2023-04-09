@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "mike-co.import-sorter",
+    "arcanis.vscode-zipfs",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig"
+  ]
+}
